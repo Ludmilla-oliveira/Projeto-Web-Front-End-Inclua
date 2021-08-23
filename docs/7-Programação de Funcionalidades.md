@@ -9,6 +9,15 @@ Ao entrar na Home, o usuário irá realizar o login em Faça o seu Login e lá s
 
 Login de Acesso (RF-01)
 
-Ao entrar na Home, o usuário irá realizar o login em Faça o seu Login e lá sera redirecionado para a página à seguir:
+Requisitos atendidos
+●	RF-01 - 
 
-![image](https://user-images.githubusercontent.com/77788883/130534177-f48dea66-3ef1-4268-8af7-88018c1a2fd4.png)
+Artefatos da funcionalidade
+●	index.html
+
+Instruções de acesso
+1.	Faça o download do arquivo do projeto (ZIP) na branch Feature /templateHome
+2.	Descompacte o arquivo em uma pasta específica;
+3.	Abra o Visual Studio Code e execute o Live Server;
+4.	Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/index.html
