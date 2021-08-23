@@ -11,4 +11,6 @@ O template criado está disponível no site   e é composto pelos seguintes layo
 -	A responsividade segue o padrão do Bootstrap
 -	Tela Principal (Home)
 -	Tela que abrange todas as visualizações iniciais do site e a as ferramentas que o usuário tem acesso.
-Update....
+
+
+![image](https://user-images.githubusercontent.com/77788883/130534065-e75b5502-41ed-49e4-9071-4365694891fd.png)
