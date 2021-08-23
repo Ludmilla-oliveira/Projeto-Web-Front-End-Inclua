@@ -11,4 +11,4 @@ O template criado está disponível no site   e é composto pelos seguintes layo
 -	A responsividade segue o padrão do Bootstrap
 -	Tela Principal (Home)
 -	Tela que abrange todas as visualizações iniciais do site e a as ferramentas que o usuário tem acesso.
-
+Update....
