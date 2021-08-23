@@ -5,7 +5,7 @@ A metodologia contempla as definições de ferramental utilizado tanto para a ma
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
+A ferramenta de controle de versão adotada no projeto inicialmente foi o
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t6-grupo-2-web-front-end
 foi utilizado para hospedagem do repositório.
 
